@@ -14,10 +14,7 @@ html = """
 <span class="pipe">|</span>
 <a href="http://f.bokett.com/forum.php?mod=viewthread&amp;tid=1449158&amp;page=1&amp;authorid=403043" rel="nofollow">只看该作者</a>
 </div>
-</div>
-</div><div class="pct"><div class="pcb">
-<div class="t_fsz">
-<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_14010167">
+</le cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_14010167">
 姓名 叶曦<br />
 地区 杭州<br />
 县市 杭州<br />
